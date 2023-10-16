@@ -1,2 +1,1 @@
-# estudiando-domingo
-Estudiando hoy domingo
+# Estudiando Full
